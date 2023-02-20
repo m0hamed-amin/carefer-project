@@ -26,7 +26,7 @@ You could check installation through this URL
 
 You could see fresh installation of laravel application.
 
-**DON't Forget to change your .env credentials to its corresponding values at docker-compse.yml file.**
+**DON't Forget to change your .env credentials like [.env.example] to its corresponding values at docker-compse.yml file.**
 
 
 after finishing every steps
