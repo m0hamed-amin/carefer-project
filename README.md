@@ -2,7 +2,7 @@
 This Task belongs to Carefer Company.
 
 # My development Environment
-PHP 7.3
+PHP 8.1
 Mysql 8.0
 Nginx
 
