@@ -57,6 +57,9 @@ You can find  Api Documentation on
 | `GET`    | `/api/most-frequent` | list most frequent trips per each user |
 
 
+## for running test:
+
+- To run feature Test =>`./vendor/bin/phpunit`
 
 
 
